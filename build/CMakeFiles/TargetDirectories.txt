@@ -1,0 +1,3 @@
+/Users/caiyuzhe/projectLearning/Snake_cpp/build/CMakeFiles/Snake_cpp.dir
+/Users/caiyuzhe/projectLearning/Snake_cpp/build/CMakeFiles/edit_cache.dir
+/Users/caiyuzhe/projectLearning/Snake_cpp/build/CMakeFiles/rebuild_cache.dir
